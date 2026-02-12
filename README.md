@@ -2,7 +2,9 @@
 <H3>Register no : 212224230138</H3>
 <H3>Date : 12.02.2026</H3>
 <H3>Experiment No. 2 </H3>
+
 ## Implementation of Perceptron for Binary Classification
+
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
